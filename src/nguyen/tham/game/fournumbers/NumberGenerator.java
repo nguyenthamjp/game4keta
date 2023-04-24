@@ -7,6 +7,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+/**
+ * Class tạo số random không trùng nhau
+ */
 public class NumberGenerator {
 	private final int size;
 	/**

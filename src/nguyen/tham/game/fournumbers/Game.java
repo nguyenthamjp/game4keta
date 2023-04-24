@@ -5,7 +5,6 @@ import java.util.List;
 public class Game {
 	private final static int SIZE = 4;
 	public static void main(String[] args) {
-	
 		// tạo só 4 chữ só random
 		final NumberGenerator numberGenerator = new NumberGenerator(SIZE);
 		final List<Integer> numbers = numberGenerator.generate();
