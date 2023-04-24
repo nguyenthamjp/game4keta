@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * class nhập số từ người dùng
+ *
+ */
 public class NumberInput {
 	private final int size;
 	private final Scanner sc = new Scanner(System.in);
